@@ -1,0 +1,15 @@
+body
+{
+  background-color: rgba(128,179,219,1);
+}
+
+h2
+ {
+  color: darkblue;
+  text-shadow: 2px 2px 8px indigo
+}
+
+h4 {
+  color: darkblue;
+  text-shadow: 2px 2px 7px indigo
+}
